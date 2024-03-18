@@ -1,3 +1,3 @@
 a=10
 B=20
-print(a)
+print(a+b)
